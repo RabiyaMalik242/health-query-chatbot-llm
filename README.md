@@ -87,7 +87,7 @@ A key focus of this project is demonstrating how system prompt design changes mo
 ```
 2. Install dependencies
 ```bash
-   pip install groq
+   pip install -r requirements.txt
 ```
 3. Get a free Groq API key at [console.groq.com](https://console.groq.com)
 4. Open `health_chatbot.ipynb` and paste your API key in Section 2
