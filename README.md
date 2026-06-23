@@ -155,4 +155,4 @@ MediBot is a demonstration project for educational purposes only. It does not pr
 
 ## 👩‍💻 Author
 
-Built as part of an AI/ML Internship Program.
+Rabiya Malik BS Software Engineering — AI/ML Internship Project
