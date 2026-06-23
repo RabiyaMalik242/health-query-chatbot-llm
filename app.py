@@ -289,7 +289,7 @@ st.markdown("""
     <div class="medibot-icon">🩺</div>
     <div>
         <h1>MediBot</h1>
-        <p>General Health Assistant &nbsp;·&nbsp; LLaMA 3.3 70B via Groq &nbsp;·&nbsp; AI/ML Internship — Task 4</p>
+        <p>General Health Assistant &nbsp;·&nbsp; LLaMA 3.3 70B via Groq &nbsp;·&nbsp</p>
     </div>
 </div>
 """, unsafe_allow_html=True)
